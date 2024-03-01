@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container-commande {
+    background-color: rgb(240, 144, 144);
+}
+
+.container-commande input {
+    border: none;
+    width: 670px;
+    height: 45px;
+    border-radius: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: white;
+    margin-left: 25%;
+    margin-top: 15px;
+}
